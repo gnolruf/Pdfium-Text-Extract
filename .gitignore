@@ -1,0 +1,75 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vs/
+_ReSharper*/
+*.[rR]e[Ss]harper
+ReSharperReports/
+R#_* 
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild[Ll]ogs/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Compiled DLLs
+*.dll
+*.pdb
+*.exe
+*.appx
+*.appxsym
+*.appxupload
+
+# Compiled Static Libraries
+*.lib
+*.obj
+
+# Compiled TypeScript files
+*.tsbuildinfo
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the presence of 'restore' in msbuild
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+
